@@ -9,4 +9,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2490-circular-sentence](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2490-circular-sentence/) | Easy |
 <!---LeetCode Topics End-->
