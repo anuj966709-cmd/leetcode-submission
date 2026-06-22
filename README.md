@@ -15,4 +15,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2490-circular-sentence](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2490-circular-sentence/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
