@@ -15,6 +15,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0020-valid-parentheses/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2490-circular-sentence](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2490-circular-sentence/) | Easy |
 ## Array
@@ -34,4 +35,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
