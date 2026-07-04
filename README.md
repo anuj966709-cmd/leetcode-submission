@@ -41,4 +41,20 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0020-valid-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
