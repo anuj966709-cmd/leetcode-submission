@@ -5,12 +5,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## String
@@ -59,4 +61,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
