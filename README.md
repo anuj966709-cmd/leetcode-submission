@@ -29,6 +29,7 @@
 | [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
