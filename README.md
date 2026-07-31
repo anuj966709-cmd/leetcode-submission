@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
