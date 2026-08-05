@@ -6,6 +6,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Two Pointers
@@ -14,6 +15,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Counting
 |  |
@@ -82,4 +85,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
