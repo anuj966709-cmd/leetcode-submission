@@ -3,11 +3,9 @@ class Solution {
         int n = arr.length;
         int i = 0;
         int j = n-1;
-        int mid = 0;
-        int x = 0;
         while(i <= j)
         {
-            mid = (i+j)/2;
+            int mid = (i+j)/2;
             if(arr[mid]-(mid+1) < k)
             i = mid+1;
             else
