@@ -32,6 +32,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1539-kth-missing-positive-number) |
 | [2109-adding-spaces-to-a-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
@@ -60,6 +61,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0441-arranging-coins](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
