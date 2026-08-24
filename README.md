@@ -34,6 +34,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1572-matrix-diagonal-sum) |
@@ -91,6 +93,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
