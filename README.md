@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
@@ -95,6 +96,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
