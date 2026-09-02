@@ -46,12 +46,14 @@
 | [1572-matrix-diagonal-sum](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1572-matrix-diagonal-sum) |
 | [2109-adding-spaces-to-a-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0441-arranging-coins) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
