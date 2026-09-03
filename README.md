@@ -40,6 +40,7 @@
 | [0217-contains-duplicate](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1539-kth-missing-positive-number) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0441-arranging-coins) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
@@ -79,6 +81,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1539-kth-missing-positive-number) |
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -105,6 +109,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -126,4 +131,5 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
