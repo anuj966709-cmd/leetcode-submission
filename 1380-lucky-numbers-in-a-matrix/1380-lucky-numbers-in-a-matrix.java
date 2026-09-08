@@ -22,6 +22,7 @@ class Solution {
                 if(matrix[k][minIdx] > min)
                 {
                     check = false;
+                    break;
                 }
             }
             if(check == true)
