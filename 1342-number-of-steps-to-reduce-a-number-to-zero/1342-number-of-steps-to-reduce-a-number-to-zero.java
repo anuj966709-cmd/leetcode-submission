@@ -1,10 +1,9 @@
 class Solution {
-    public int count = 0;
     public int numberOfSteps(int num) {
-        return countSteps(num);  
+        return countSteps(num,0);  
     }
 
-    public int countSteps(int n)
+    public int countSteps(int n, int count)
     {
         if(n == 0)
         return count;
@@ -12,12 +11,12 @@ class Solution {
         if(n%2 == 0)
         {
             count++;
-            return countSteps(n/2);
+            return countSteps(n/2,count);
         }
         else
         {
             count++;
-            return countSteps(n-1);
+            return countSteps(n-1,count);
         } 
     }
 }
