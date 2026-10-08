@@ -60,6 +60,7 @@
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
@@ -97,6 +98,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Tree
 |  |
 | ------- |
