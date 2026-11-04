@@ -46,6 +46,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1572-matrix-diagonal-sum) |
 | [2109-adding-spaces-to-a-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
