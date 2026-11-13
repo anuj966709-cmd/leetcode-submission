@@ -37,6 +37,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0217-contains-duplicate) |
@@ -100,6 +101,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
