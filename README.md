@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -123,6 +124,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
