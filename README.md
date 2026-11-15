@@ -45,6 +45,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0867-transpose-matrix) |
@@ -150,6 +151,7 @@
 | [0217-contains-duplicate](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
