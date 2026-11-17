@@ -31,6 +31,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 | [2109-adding-spaces-to-a-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2490-circular-sentence](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2490-circular-sentence/) | Easy |
 ## Array
 |  |
@@ -129,10 +130,12 @@
 | [0242-valid-anagram](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
