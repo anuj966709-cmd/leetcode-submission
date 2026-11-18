@@ -40,6 +40,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0189-rotate-array) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -177,4 +179,8 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1991-find-the-middle-index-in-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
