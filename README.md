@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## String
@@ -48,6 +49,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -99,6 +101,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1539-kth-missing-positive-number) |
@@ -131,6 +134,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
@@ -159,6 +163,7 @@
 | [0217-contains-duplicate](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
