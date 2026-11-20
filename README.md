@@ -51,6 +51,7 @@
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0867-transpose-matrix) |
@@ -135,6 +136,7 @@
 | [0242-valid-anagram](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
@@ -165,6 +167,7 @@
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
