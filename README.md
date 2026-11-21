@@ -49,6 +49,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -191,4 +192,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
