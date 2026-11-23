@@ -6,11 +6,11 @@ class Solution {
         {
             return null;
         }
-        if(head.next.next == null)
-        {
-            head.next = null;
-            return head;
-        }
+        // if(head.next.next == null)
+        // {
+        //     head.next = null;
+        //     return head;
+        // }
         fast = fast.next.next;
         while(fast != null && fast.next != null)
         {
