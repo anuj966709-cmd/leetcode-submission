@@ -1,77 +1,52 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
- */
+
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         int countA = 0;
         int countB = 0;
         ListNode tempA = headA;
-        ListNode tempB = headB;
         while(tempA != null)
         {
-            countA++;
             tempA = tempA.next;
+            countA++;
         }
+        ListNode tempB = headB;
+
         while(tempB != null)
         {
-            countB++;
             tempB = tempB.next;
+            countB++;
         }
         if(countA > countB)
         {
-            int fast = countA - countB;
+            int finalCount = countA-countB;
             ListNode tempA1 = headA;
-            ListNode tempB1 = headB;
-            for(int i = 1; i <= fast; i++)
+            for(int i = 1; i <= finalCount; i++)
             {
                 tempA1 = tempA1.next;
             }
-            for(int j = 1; j <= countB; j++)
+            ListNode tempB1 = headB;
+            while(tempA1 != tempB1)
             {
-                if(tempA1 == tempB1)
-                {
-                    return tempA1;
-                }
-                else
-                {
-                    tempA1 = tempA1.next;
-                    tempB1 = tempB1.next;
-                }
+                tempA1 = tempA1.next;
+                tempB1 = tempB1.next;
             }
-            return null;
+            return tempA1;
         }
         else
         {
-            int fast = countB - countA;
-            ListNode tempA1 = headA;
+            int finalCount = countB-countA;
             ListNode tempB1 = headB;
-            for(int i = 1; i <= fast; i++)
+            for(int i = 1; i <= finalCount; i++)
             {
                 tempB1 = tempB1.next;
             }
-            for(int j = 1; j <= countA; j++)
+            ListNode tempA1 = headA;
+            while(tempA1 != tempB1)
             {
-                if(tempA1 == tempB1)
-                {
-                    return tempA1;
-                }
-                else
-                {
-                    tempA1 = tempA1.next;
-                    tempB1 = tempB1.next;
-                }
+                tempA1 = tempA1.next;
+                tempB1 = tempB1.next;
             }
-            return null;
-
-        }
-        
+            return tempA1;
+        }   
     }
 }
