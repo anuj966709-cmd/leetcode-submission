@@ -8,6 +8,7 @@
 | [0141-linked-list-cycle](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anuj966709-cmd/leetcode-submission/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Two Pointers
 |  |
